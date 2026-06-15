@@ -15,3 +15,7 @@ the broader sequence context, if there is one, that makes a site functional.
 Binary classification:  
 given a 200 bp window centred on a GT dinucleotide, predict whether
 it is a true donor splice site (label 1) or a false positive (label 0).
+
+## Download data
+
+Download the latest versions of fasta and gtf files for *Drosophila melanogaster* using download_data.sh.
